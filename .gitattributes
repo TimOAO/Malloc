@@ -1,0 +1,4 @@
+*.cpp text eol=lf
+*.hpp text eol=lf
+Makefile text eol=lf
+Readme.md text eol=lf
